@@ -98,7 +98,7 @@ class _MyHomePageState extends State<MyHomePage> {
               height: 50,
               width: 300,
               decoration: BoxDecoration(color: Colors.blue, borderRadius: BorderRadius.only(bottomRight: Radius.circular(15))),
-              child: Center(child: Text('There are some coffee bank: ', style: TextStyle(color: Colors.white, fontSize: 20))),
+              child: Center(child: Text('There are some coffee brands: ', style: TextStyle(color: Colors.white, fontSize: 20))),
             ),
             SizedBox(height: 20),
             Padding(
